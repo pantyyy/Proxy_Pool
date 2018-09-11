@@ -1,0 +1,2040 @@
+{
+  "room_img": [
+    "https://rpic.douyucdn.cn/asrpic/180905/288016_1400.jpg"
+  ],
+  "room_title": [
+    "16:30LPL季后赛TOPvsSNG"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "英雄联盟官方赛事"
+  ],
+  "watch_num": [
+    "84万"
+  ]
+}
+{
+  "room_img": [
+    "https://rpic.douyucdn.cn/asrpic/180905/475252_1400.jpg"
+  ],
+  "room_title": [
+    "孙悟空：上单小霸王"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "MQ丶孙悟空"
+  ],
+  "watch_num": [
+    "75.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://rpic.douyucdn.cn/asrpic/180905/1126960_1400.jpg"
+  ],
+  "room_title": [
+    "余小C：韩服大师我尽量Carry!!!"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "余小C真的很强"
+  ],
+  "watch_num": [
+    "52.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "叶音符：K头教学 反野控蟹王。"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "叶音符"
+  ],
+  "watch_num": [
+    "21万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "第一男刀：三级不单杀请举报主播，谢谢吖！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "智勋勋勋勋"
+  ],
+  "watch_num": [
+    "14.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "早上好带哥们"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "带象公寓"
+  ],
+  "watch_num": [
+    "12.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "胖胖OB：9.5 Faker\\乌兹 排位"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "胖胖灬"
+  ],
+  "watch_num": [
+    "12.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "油头：这个主播油点东西油点秀"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "十月船长丶"
+  ],
+  "watch_num": [
+    "11万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "最强皎月，斗鱼康先生钻石分段为所欲为！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "狗康Bfate丶"
+  ],
+  "watch_num": [
+    "10.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "冲峡谷第一，屠谷战神冷血打野"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "MQ丶聪全蛋"
+  ],
+  "watch_num": [
+    "10万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "蜘蛛馍：钻石局3分一血不拿请举报"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "MQ丶蜘蛛馍"
+  ],
+  "watch_num": [
+    "8.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "【网恋夫妻】下路双排GOGOGOGO"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "冷爷行妹"
+  ],
+  "watch_num": [
+    "8.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "电一女盲僧排位赛~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "琦琦7"
+  ],
+  "watch_num": [
+    "8.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "第一女烬：求求你门办张卡8 嘤嘤"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "李冉冉i"
+  ],
+  "watch_num": [
+    "7.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "【柠导】办卡上车永久。黑色玫瑰"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "柠导"
+  ],
+  "watch_num": [
+    "7.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "峡谷之巅小号600冲700"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "王纪超666"
+  ],
+  "watch_num": [
+    "6.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "500王者ad冲600"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "李莫莫x"
+  ],
+  "watch_num": [
+    "6.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "中单随机之王"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "太原马超丶"
+  ],
+  "watch_num": [
+    "5.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "第一扎女，排位可以玩了吗？"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "文伊伊丶"
+  ],
+  "watch_num": [
+    "5.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "QYQX的直播间"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "Nearly1"
+  ],
+  "watch_num": [
+    "5.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "老陈:北美女装大佬box霸主级瑞文"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "暴风工作室丶"
+  ],
+  "watch_num": [
+    "5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "14：早间挡峡谷杀神"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "14德莱文"
+  ],
+  "watch_num": [
+    "4.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "LDL南京赛区"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "LDL南京赛区"
+  ],
+  "watch_num": [
+    "4.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "20分钟600Q狗头，我于人间全无敌"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "神威仙大将军"
+  ],
+  "watch_num": [
+    "4.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "银河第一吸血鬼今天玩青铜"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "爱吸血的皮卡丘"
+  ],
+  "watch_num": [
+    "3.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "作作金克丝:第一萝莉偷偷的亲了你一下"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "作作金克丝"
+  ],
+  "watch_num": [
+    "3.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "快乐风男：过气主播垂死挣扎~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "凉风亚索yasuo"
+  ],
+  "watch_num": [
+    "3.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "【99%胜率性感龙龟】在线飙车！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "唐人龙龟"
+  ],
+  "watch_num": [
+    "3.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "求求你办张卡吧！！！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小橙丷"
+  ],
+  "watch_num": [
+    "3.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "LDL重庆赛区"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "LDL重庆赛区"
+  ],
+  "watch_num": [
+    "3.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "希望这是个幸运的9月~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "秀逗秀逗丶"
+  ],
+  "watch_num": [
+    "3.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "~( *・ω・)~加油鸭！新的一周"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "吴纳尔bb"
+  ],
+  "watch_num": [
+    "3.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "狮子专场：斗鱼最高段位狮子狗"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "MQ丶五月末"
+  ],
+  "watch_num": [
+    "3.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "酱爆牛批：韩服冲一千分"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "南陵花神丶"
+  ],
+  "watch_num": [
+    "3.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "发条魔灵逆天改命之乾坤大挪移"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "羽毛发条丶31969"
+  ],
+  "watch_num": [
+    "3.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "峡谷已大师 开始冲击王者!!!!"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "良人与猫zzz"
+  ],
+  "watch_num": [
+    "3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "我擅长气人 终结话题    ╯︿╰"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "mmmmm77"
+  ],
+  "watch_num": [
+    "2.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "你过来，我给你看个宝贝"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "就叫大大大包子"
+  ],
+  "watch_num": [
+    "2.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "LDL北京赛区直播"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "LDL北京赛区"
+  ],
+  "watch_num": [
+    "2.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "一刀秒梦魇！抗住我一刀的只有真眼"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "八神梦魇丶"
+  ],
+  "watch_num": [
+    "2.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "第一死歌：2分钟一血没有请举报"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "俞俊0829"
+  ],
+  "watch_num": [
+    "2.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "休息几天，14号回来~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "偷心的小书贼"
+  ],
+  "watch_num": [
+    "2.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "yasuoking冲冲冲"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "明月桑zaz"
+  ],
+  "watch_num": [
+    "2.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "峡谷之巅锐雯不拿mvp举报谢谢"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "MQ丶主宰锐雯"
+  ],
+  "watch_num": [
+    "2.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "陛哥:  顶尖操作 中刀妹 上剑姬"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "陛哥丶"
+  ],
+  "watch_num": [
+    "2.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "稻草人我称第二，谁敢称第一？"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "MQ丶麦霸三界"
+  ],
+  "watch_num": [
+    "2.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "做一个亲民的女皇OAO"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "只饲养柠妹的白"
+  ],
+  "watch_num": [
+    "2.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "四神：峡谷之巅500冲1000"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "Ben4小盆友"
+  ],
+  "watch_num": [
+    "2.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "Yuki酱丶快乐就完事了！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "Yuki酱丶"
+  ],
+  "watch_num": [
+    "2.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "寡妇:碧浪型打野，了解一下"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小丸子因因"
+  ],
+  "watch_num": [
+    "2.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "斗鱼第一全能王!"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "海王Seaking丶"
+  ],
+  "watch_num": [
+    "2.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "新主播求支持QAQ"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "粉小一"
+  ],
+  "watch_num": [
+    "2.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "❤  淡淡的...  ❤"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小可爱颜baby"
+  ],
+  "watch_num": [
+    "2.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "飞天螳螂 15分钟打野刀幕刃 岚切流打法"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小红集团丶红茶"
+  ],
+  "watch_num": [
+    "2.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "峡谷之巅美少女冲国服前10！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "杀神丶晴空"
+  ],
+  "watch_num": [
+    "2.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "LDL深圳赛区"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "LDL深圳赛区"
+  ],
+  "watch_num": [
+    "2.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "我蓝莓莓凯隐真的很强！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "王蓝莓丶"
+  ],
+  "watch_num": [
+    "2.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "❤黑色玫瑰❤，等一个你，么么哒~~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "我就是阿宝啊i"
+  ],
+  "watch_num": [
+    "2.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "最肥螳螂，二十分钟单挑大龙了解一下"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "肥螳螂丶老无名"
+  ],
+  "watch_num": [
+    "2.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "初音未来：鱼人 艾克 卡萨丁"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "初音未来无敌帅"
+  ],
+  "watch_num": [
+    "2.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "晓晓MM：咻咻咻~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小怪兽咻咻咻"
+  ],
+  "watch_num": [
+    "2.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "萝莉声控：艾欧尼亚一起玩么~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "幼鹿鹿"
+  ],
+  "watch_num": [
+    "2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "斗鱼第一男枪！S1打野男枪上王者!"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "程乐鸡QAQ"
+  ],
+  "watch_num": [
+    "1.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "黑莓新号定位赛，100%胜率送水友！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "赵锤石丶"
+  ],
+  "watch_num": [
+    "1.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "LPL英文解说  9月2日重播"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "赛事专用直播间"
+  ],
+  "watch_num": [
+    "1.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "❤斗鱼第二狗熊ღ"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "特工丶琪丨恭喜RNG夺冠"
+  ],
+  "watch_num": [
+    "1.9万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "电一王者赛季末拿框来"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "心悦不笑君"
+  ],
+  "watch_num": [
+    "1.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "只用派克上王者"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "到处送温暖的浩宝"
+  ],
+  "watch_num": [
+    "1.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "LPL斗鱼解说台 9月2日重播"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "英雄联盟赛事活动专用"
+  ],
+  "watch_num": [
+    "1.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "光神拉克丝安妮"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "Lux光神杰"
+  ],
+  "watch_num": [
+    "1.8万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "开车开车。。。 3593435"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "林妹妹333"
+  ],
+  "watch_num": [
+    "1.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "武汉球王：发条,辛德拉专场"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "da迪"
+  ],
+  "watch_num": [
+    "1.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "20分钟1000法强无敌小法"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "灰灰小法师OvO"
+  ],
+  "watch_num": [
+    "1.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "❤咩酱今天软趴趴的嗷❤"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "一万只呆咩O3O"
+  ],
+  "watch_num": [
+    "1.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "一日不见，如鸽三秋"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "龙拾柒阿"
+  ],
+  "watch_num": [
+    "1.7万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "感觉自己坑坑的！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "第一躺妹子丶娜娜"
+  ],
+  "watch_num": [
+    "1.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "稀饭：斗鱼第一海兽，万场海兽祭祀在线教学"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "稀饭海兽"
+  ],
+  "watch_num": [
+    "1.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "祖安练级中...."
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "魅儿Charm"
+  ],
+  "watch_num": [
+    "1.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "卡神卡牌：峡谷王者小主播中单."
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "卡神zz"
+  ],
+  "watch_num": [
+    "1.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "李阿特：快乐雪人"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "李阿特g"
+  ],
+  "watch_num": [
+    "1.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "快乐男刀，在线翻墙~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "c林夕"
+  ],
+  "watch_num": [
+    "1.6万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "赎罪之旅  卡莎+机器"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "杨少爷与黄公子"
+  ],
+  "watch_num": [
+    "1.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "黑色玫瑰：是不是你的小甜心呐 -❥"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小果子丶Wy"
+  ],
+  "watch_num": [
+    "1.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "世间多少好皮囊，我只爱你枯骨悲凉"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "卿卿5200"
+  ],
+  "watch_num": [
+    "1.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "上单老波比，如今竟称霸野区！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "波比腿短锤子长i"
+  ],
+  "watch_num": [
+    "1.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "峡谷之巅辅助挨揍系列"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "渝万丶迷人眼"
+  ],
+  "watch_num": [
+    "1.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "假装第一女亚索，均场30杀~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "长沙小仙女"
+  ],
+  "watch_num": [
+    "1.5万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "韩服王者屠杀局全皮肤"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "骑兵连连长先锋孙德胜"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "R某人：下午唱歌，晚上喝酒！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "混丶R某人"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "不如永远跟你耗来的快乐。"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "皓皓OnO"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "CC：钻石局上野杀神推雪球"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "鬼手cc"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "安妮加强！无限闪现表演中"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "安妮王丶安旭"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "电竞薛之谦:斗鱼第一提莫 输一把送现金"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "刘小准zz"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "早起的鸟儿有虫吃 4672828"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小靖子酱"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "喜欢唱歌的女子"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "陌婳倾城水水"
+  ],
+  "watch_num": [
+    "1.4万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "王者男枪教你跑酷玩法"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "无敌男枪张学友"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "有木有小哥哥可以带带我"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "雁南筝y"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "大锤：新皮肤王者锤石无敌"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "大锤锤石丶"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "黎明 :香港人电一艾欧尼亚冲波王者"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "滾石丶黎明"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "王者800点：帮对面打野戒网瘾1V9教学"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "Wings跳小刀"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "网二求大腿 OVO"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "吃不饱的橘猫ObO"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "一直帅气迷人的桃子"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "桃灼妹mm"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "黑色玫瑰 办卡上车 1179457"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "刘小傻丶"
+  ],
+  "watch_num": [
+    "1.3万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "AJ这个德莱文有丶不讲道理"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "AJ德莱文"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "被偏爱的都有恃无恐。"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "乀兰兰"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "う我爱你···祖国ヅ"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "华丽大小姐"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "叫你们如何躺赢~~躺赢的秘诀是什么~~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "2畔呀"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "你的小萝莉掉了"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "甜心软可"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "主播免费上分！没有任何条件"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "神龙卡特"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "最强刀妹 玉剑传说艾瑞莉娅"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "岁月刀妹QAQ"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "王者辅助风女奶妈璐璐细致教学"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "主播王者水"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "丫头你的小可爱来了要么么哒"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "到处聊骚的丫头"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "最酷的仔，土味妖姬skrskr~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "诡术朵"
+  ],
+  "watch_num": [
+    "1.2万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "世界第一OB间：10王者，40分钟质量局"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "青蛙ob"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "战争铁蹄在线屠戮，开局一张嘴，优势全靠吹"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "西关龙"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "蛮小祖：斗鱼第一蛮王，五秒蛮神浴血屠戮！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "小祖zmy"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "艾欧尼亚自定义来不来啊"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "老仙女o"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "斗鱼第一阿卡丽细节解说"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "大马C丶不需要队友"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "红名：单排AD我选图奇~！"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "杀神红名"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
+{
+  "room_img": [
+    "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif"
+  ],
+  "room_title": [
+    "七橙：一只声音好听技术菜的小姐姐~"
+  ],
+  "room_cate": [
+    "英雄联盟"
+  ],
+  "anchor_name": [
+    "七橙啊"
+  ],
+  "watch_num": [
+    "1.1万"
+  ]
+}
